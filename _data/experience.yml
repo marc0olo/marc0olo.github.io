@@ -1,0 +1,37 @@
+# Experience template
+- layout: left
+  company: targens GmbH
+  link: https://targens.de
+  job_title: Software Engineer (Blockchain)
+  dates: July 2018 - present
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    At targens GmbH my focus is on blockchains and distributed ledger technologies. My previous tasks/roles included:
+    - Development of a delivery vs. payment prototype where two devices (Raspberry Pi) identified each other via RFID
+    and made payments by interacting with a smart contract deployed on a private Ethereum network.
+    - Analysis of [Stellar](https://www.stellar.org/) (focus on payment channels)
+    - Analysis and comparison of different Layer 2 solutions (payment channels, state channels, virtual state channels, lightning network)
+    - Developer role in a [Corda](https://www.corda.net/) project (finance sector)
+
+- layout: left
+  company: USU GmbH
+  link: https://www.unymira.com
+  job_title: Consultant
+  dates: February 2015 - June 2018
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    I joined USU GmbH for my internship in March 2013 and stayed there as working student.
+    After I have written my bachelor thesis I joined the company in February 2015 as Junior Consultant and was promoted to Consultant in July 2017.
+    I was also a member of the so-called *Jump Team*, the link between the Executive Board and employees.
+
+    My focus at USU GmbH was building portal solutions with [Liferay](https://www.liferay.com) for our customers. I was also member of the Liferay expert group in the company.
+
+- layout: left
+  company: Deutsche Telekom AG
+  link: https://www.telekom.com
+  job_title: Training IT Specialist System Integration
+  dates: September 2008 - February 2011
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    After graduating from high school, I decided to train as an IT specialist for systems integration at Deutsche Telekom AG.
+    During my training, I mainly installed servers and configured networks on Cisco hardware.

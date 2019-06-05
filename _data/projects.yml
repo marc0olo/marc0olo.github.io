@@ -1,0 +1,38 @@
+# Project template
+- layout: top-middle
+  name: kryptokrauts
+  link: https://kryptokrauts.com
+  github: https://github.com/kryptokrauts
+  quote: >
+    a self-educating crypto-community
+  description: | # this will include new lines to allow paragraphs
+    kryptokrauts aims to be a self-educating crypto-community created by people for people.
+    We have many cool ideas we want to bring to life.
+    Currently the project is in its infancy but I am really curious about its future.
+    A very cool thing is our [crypto-timeline](https://kryptokrauts.com/timeline) to which everybody
+    is invited to [contribute](https://kryptokrauts.com/log/how-to-contribute)!
+- layout: top-middle
+  name: aepp-sdk-java
+  link: https://github.com/kryptokrauts/aepp-sdk-java
+  github: https://github.com/kryptokrauts/aepp-sdk-java
+  quote: >
+    a Java-SDK to communicate with the æternity blockchain
+  description: | # this will include new lines to allow paragraphs
+    The motivation to create a Java-SDK for the æternity blockchain was to enable a possible integration of æternity
+    into the multi-blockchain wallet provider [ArkaneNetwork](https://arkane.network).
+    Shortly after the first release was published I contributed to the [blockchain-providers](https://github.com/ArkaneNetwork/blockchain-providers)
+    of ArkaneNetwork and added the æternity integration.
+
+    It is currently the only available Java-SDK and still in active development by [Michel Meier](https://github.com/mitch-lbw) and myself.
+- layout: top-middle
+  name: authenticity-proof / Identity of Things
+  link: https://github.com/thank-me-later/authenticity-proof/blob/master/slides/Identity_of_Things.pdf
+  github: https://github.com/thank-me-later/authenticity-proof
+  quote: >
+    awarded as "best technical implementation" during the blockchain-hackathon 2019 in Stuttgart
+  description: | # this will include new lines to allow paragraphs
+    Identity of Things enables the unique decentralized verification of any type of products using a miniscule NFC
+    and Secure Element based device, designed for those corporations, which truly care about their brand.
+    This small device helps anyone to verify the authenticity of the product by using cryptographic methodology
+    leveraging the secret key in tamper-proof Secure Element and maintaining the public key in Smart Contracts on the Ethereum blockchain.
+    Moreover, we use the ENS (Ethereum Name Service) technology to associate the registry of the products to the respective brand.

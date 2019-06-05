@@ -1,0 +1,15 @@
+# Education Template
+- layout: top-middle
+  name: Heilbronn University of Applied Sciences
+  dates: 2011 - 2015
+  qualification: Bachelor of Science
+
+- layout: top-middle
+  name: Gewerbliche Schule Göppingen
+  dates: 2008 - 2010
+  qualification: Apprenticeship
+
+- layout: top-middle
+  name: Werner Heisenberg Gymnasium Göppingen
+  dates: 1999 - 2008
+  qualification: Abitur

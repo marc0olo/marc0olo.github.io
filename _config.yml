@@ -1,0 +1,81 @@
+# Site
+repository: marc0olo/resume
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Marco Walz
+title: Software Developer & Consultant
+email: walz.marcoo@gmail.com
+phone: 
+website: https://kryptokrauts.com
+
+# Social links
+twitter_username: marc0olo
+github_username:  marc0olo
+dribbble_username: 
+facebook_username: 
+flickr_username: 
+instagram_username: 
+linkedin_username: marco-walz-776844141
+xing_username: 
+pinterest_username: 
+youtube_username: 
+googleplus_username: 
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: https://github.com/marc0olo.png
+about_content: | # this will include new lines to allow paragraphs
+  I am currently working at [targens GmbH](https://targens.de) and always passionate about new technologies and inventions that will make our all lives better and more comfortable, in particular:
+
+  - Blockchains and decentralized networks
+  - Self-sovereign identity
+  - Internet of Things
+  - Autonomous driving *(can't wait for it to come!!! =))*
+
+  In my spare time I am actively playing table tennis in my club TTV Zell.
+  Besides that I contribute to some software projects and try to build a self-educating crypto-community
+  called [kryptokrauts](https://kryptokrauts.com).
+  Additionally I am proud to be an æmbassador of [æternity](https://aeternity.com).
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+#more_title: Certifications #(Use this to override about more section title)
+#more_content: | # this will include new lines to allow paragraphs
+#  - Oracle Certified Associate, Java SE 8 Programmer
+#  - Corda Certified Developer
+
+# Footer
+footer_show_references: false
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
