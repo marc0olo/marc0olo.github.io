@@ -3,11 +3,15 @@
   name: Heilbronn University of Applied Sciences
   dates: 2011 - 2015
   qualification: Bachelor of Science
+  quote: >
+    Business informatics
 
 - layout: top-middle
   name: Gewerbliche Schule Göppingen
   dates: 2008 - 2010
   qualification: Apprenticeship
+  quote: >
+    IT Specialist System Integration
 
 - layout: top-middle
   name: Werner Heisenberg Gymnasium Göppingen
