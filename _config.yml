@@ -26,7 +26,7 @@ googleplus_username:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: https://github.com/marc0olo.png
 about_content: | # this will include new lines to allow paragraphs
-  I am currently working at [targens GmbH](https://targens.de) and always passionate about new technologies and inventions that will make our all lives better and more comfortable, in particular:
+  I am currently working at [51nodes GmbH](https://51nodes.io) and always passionate about new technologies and inventions that will make our all lives better and more comfortable, in particular:
 
   - Blockchains and decentralized networks
   - Self-sovereign identity
@@ -34,7 +34,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Autonomous driving *(can't wait for it to come!!! =))*
 
   In my spare time I am actively playing table tennis in my club TTV Zell.
-  Besides that I contribute to some software projects and try to build a self-educating crypto-community
+  Besides that I contribute to some software projects and try to build a knowledge platform for the crypto-community.
   called [kryptokrauts](https://kryptokrauts.com).
   Additionally I am proud to be an æmbassador of [æternity](https://aeternity.com).
 

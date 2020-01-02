@@ -1,9 +1,22 @@
 # Experience template
 - layout: left
+  company: 51nodes GmbH
+  link: https://51nodes.io
+  job_title: Software Developer (Blockchain)
+  dates: January 2020 - present
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    As a software development company, 51nodes offers technological consulting and implementation of blockchain based solutions.
+
+    As an enabler of blockchain technology, we at 51nodes support our customers in using the possibilities of the crypto economy.
+    Our offer includes blockchain infrastructure and decentralized blockchain applications, linking of IoT / Industry 4.0 with blockchain components, and tokenisation of asset classes.
+
+# Experience template
+- layout: left
   company: targens GmbH
   link: https://targens.de
-  job_title: Software Engineer (Blockchain)
-  dates: July 2018 - present
+  job_title: Software Developer (Blockchain)
+  dates: July 2018 - December 2019
   #quote: >
   description: | # this will include new lines to allow paragraphs
     At targens GmbH my focus is on blockchains and distributed ledger technologies. My previous tasks/roles included:
